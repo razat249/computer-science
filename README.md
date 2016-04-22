@@ -114,36 +114,6 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 ---
 
-### Introduction to Computer Science
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Introduction to Computer Science (Udacity)](https://www.udacity.com/course/intro-to-computer-science--cs101)| 7 weeks | 10-20 hours/week
-[Introduction to Computer Science (Edx)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)| 12 weeks | 10-20 hours/week
-[Introduction to Computer Science and Programming Using Python (Edx)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5#!)| 9 weeks | 15 hours/week
-[Introduction to Computational Thinking and Data Science (Edx)](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-2#!)| 10 weeks | 15 hours/week
-[From Nand to Tetris (Coursera)](https://www.coursera.org/course/nand2tetris1) | 7 weeks | 5-10 hours/week
-
-### Math (Mathematical Thinking)
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Effective Thinking Through Mathematics (edx)](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x) | 9 weeks | 5 hours/week
-
-### Program Design
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Systematic Program Design- Part 1: The Core Method (edx)](https://www.edx.org/course/systematic-program-design-part-1-core-ubcx-spd1x-0)| 5 weeks | 8-12 hours/week
-[Systematic Program Design- Part 2: Arbitrary Sized Data](https://www.edx.org/course/systematic-program-design-part-2-ubcx-spd2x)| 5 weeks | 8-12 hours/week
-[Systematic Program Design- Part 3: Abstraction, Search and Graphs](https://www.edx.org/course/systematic-program-design-part-3-ubcx-spd3x)| 5 weeks | 8-12 hours/week
-
-### Math (Discrete Math)
-
-Courses | Duration | Effort
-:-- | :--: | :--:
-[Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)| 12 weeks | 5 hours/week
-
 ### Algorithms
 
 Courses | Duration | Effort
